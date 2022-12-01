@@ -2,9 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 
-- ✍ I'm a student of: [Posts and Telecommunications Institute of Technology](https://https://portal.ptit.edu.vn) (PTIT).
-
-- 🌱 I’m currently learning **MERN Stack.**
+- ✍ I'm a student of: [Posts and Telecommunications Institute of Technology](https:://https:://portal.ptit.edu.vn) (PTIT).
 
 
 ## 📫 How to reach me:
@@ -14,9 +12,6 @@
 <p align="center">
   <a href="https://www.facebook.com/tranthanhthe1911" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/Tran-Thanh-The" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="mailto:tranthanhthe1911@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
