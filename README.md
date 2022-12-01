@@ -2,7 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 
-- ✍ I'm a student of: [Posts and Telecommunications Institute of Technology](https:://https:://portal.ptit.edu.vn) (PTIT).
+- ✍ I'm a student of: [Posts and Telecommunications Institute of Technology](https://https://portal.ptit.edu.vn) (PTIT).
 
 
 ## 📫 How to reach me:
